@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently pursuing Bsc. Computer Science<br>I'm looking for an internship<br>I'm Interested in Application and web development <br>I have advance knowledge about database like Oracle & MySQL
+I'm Shubhangi Chavan, Dynamic and dedicated Computer Science student with expertise in Java, 
+Python, and Kotlin, ready to apply skills in Web Development, Mobile App Development. Excited about contributing to challenging and innovative 
+projects to gain valuable industry experience.
 
 
 # 💻 Tech Stack:
