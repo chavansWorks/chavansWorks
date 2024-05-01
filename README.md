@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shubhangi Chavan, Dynamic and dedicated Computer Science student with expertise in Java, 
+I'm Shubhangi Chavan, a dynamic and dedicated Computer Science student with expertise in Java, 
 Python, and Kotlin, ready to apply skills in Web Development, Mobile App Development. Excited about contributing to challenging and innovative 
 projects to gain valuable industry experience.
 
