@@ -34,6 +34,5 @@
 🔗 **LinkedIn**: [Shubhangi Chavan](https://www.linkedin.com/in/shubhangi-c-bb4339255/)  
 📧 **Email**: work.shubhangi06@gmail.com  
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ChavansWorks&icon=0&color=0)
+## 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/shubhangi016?theme=dark&font=Baloo&ext=heatmap)
