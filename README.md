@@ -1,6 +1,6 @@
 # 🚀 Shubhangi Chavan | Software Developer  
 
-**Hello there!** 👋 I'm **Shubhangi Chavan**, a passionate **Computer Science student** with a keen interest in **Mobile App Development**. I love coding, problem-solving, and building innovative solutions using **Java, Python, and Kotlin**.  
+**Hello there!** 👋 I'm **Shubhangi Chavan**, a passionate **Computer Science student** with a keen interest in **Mobile App Development**. I love coding, problem-solving, and building innovative solutions using **Java, Python, and Kotlin , Dart**.  
 
 ## 🔥 About Me  
 
