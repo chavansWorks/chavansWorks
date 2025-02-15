@@ -1,23 +1,39 @@
-# 💫 About Me:
-I'm Shubhangi Chavan, a dynamic and dedicated Computer Science student with expertise in Java, 
-Python, and Kotlin, ready to apply skills in Web Development, Mobile App Development. Excited about contributing to challenging and innovative 
-projects to gain valuable industry experience.
+# 🚀 Shubhangi Chavan | Software Developer  
 
+**Hello there!** 👋 I'm **Shubhangi Chavan**, a passionate **Computer Science student** with a keen interest in **Web Development** and **Mobile App Development**. I love coding, problem-solving, and building innovative solutions using **Java, Python, and Kotlin**.  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChavansWorks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChavansWorks&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavansWorks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔥 About Me  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎯 **Tech Enthusiast**: Passionate about software development, UI/UX, and cutting-edge technologies.  
+- 💡 **Innovator**: Always exploring new ideas and working on unique tech projects.  
+- 🎓 **Learner**: Constantly improving my skills and keeping up with industry trends.  
+- 👩‍💻 **Developer**: Skilled in backend and frontend technologies, crafting efficient and scalable applications.  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChavansWorks&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack  
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChavansWorks&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavansWorks&theme=dark&hide_border=false&layout=compact)  
+
+## ✨ Quote of the Day  
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+## 📬 Let's Connect  
+
+🔗 **LinkedIn**: [Shubhangi Chavan](https://www.linkedin.com/in/shubhangi-c-bb4339255/)  
+📧 **Email**: work.shubhangi06@gmail.com  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChavansWorks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=ChavansWorks&icon=0&color=0)
